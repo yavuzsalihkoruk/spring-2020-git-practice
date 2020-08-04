@@ -6,3 +6,6 @@ jeep
 lexus
 jaguar
 tesla
+ferrari
+nissan
+hyundai
